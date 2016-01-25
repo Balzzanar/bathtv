@@ -21,7 +21,10 @@
  * (http://www.electrokit.com/apparatlada-222x146x75mm-med-flans-gra.53249)
 
 
-10" kan vara rätt lite
+## Notes
+* 10" kan vara rätt lite
+* Finns ett uttag någon meter bort, kan vara en bra idè.
+
 
 
 ## Inperation
