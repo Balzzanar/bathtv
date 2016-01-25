@@ -21,5 +21,8 @@
  * (http://www.electrokit.com/apparatlada-222x146x75mm-med-flans-gra.53249)
 
 
+10" kan vara rätt lite
+
+
 ## Inperation
 * https://www.youtube.com/watch?v=GKwRCDt2vWo
