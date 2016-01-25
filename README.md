@@ -20,6 +20,9 @@
 * Låda
  * (http://www.electrokit.com/apparatlada-222x146x75mm-med-flans-gra.53249)
 
+* 23" Screen
+ * (http://www.inet.se/produkt/2205444/acer-23-g236hlb?utm_source=pricerunner&utm_medium=cpc&utm_campaign=pricerunner#/specs)
+ * HDMI -> DVI converter
 
 
 
