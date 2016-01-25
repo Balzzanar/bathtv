@@ -1,8 +1,13 @@
-# Autodrink
+# BathTv
 
 ## List of potential parts
-* Magnetventil (http://www.electrokit.com/magnetventil-12v-1-2.51108)
+* 10" screen 
+* Raspberry PI 2
+* Plywood
+* Wireless keyboard with mouse
+* Battery, strong enough to power the screen and the PI for >2h
+* Wifi dongle
 
 
 ## Inperation
-* https://www.youtube.com/watch?v=_klBIoSS9-A
+*
